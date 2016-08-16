@@ -1,7 +1,7 @@
 {
-  "name": "novo-catalogo",
+  "name": "Catálogo",
   "version": "1.0.0",
-  "description": "Catalogo Restore Car",
+  "description": "Catálogo Restore Car",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
