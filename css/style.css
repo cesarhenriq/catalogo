@@ -1,0 +1,18 @@
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+#hero{
+  height: 580px;
+  background: #fff url("../img/oldtimer-594214_1920mod.jpg") no-repeat center center;
+}
+.shadow {
+  text-shadow: 3px 3px  #212121;
+}
+.fix {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
